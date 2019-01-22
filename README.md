@@ -1,3 +1,3 @@
 # Rey Suela portfolio
 
-This is my test portfolio using AWS and ReactJS
+My portfolio using AWS Lambda, CodeBuild, CodePipeline and ReactJS
